@@ -1,0 +1,35 @@
+.editor {
+    border-style: solid;
+    border-color: #0000004f;
+}
+
+.lifeEvents {
+    margin: 10px;
+}
+
+.add-item {
+    margin-right: 5px;
+}
+
+.bg-note {
+    width: 32%;
+    float: left;
+    margin-right: 5px;
+}
+
+.item-delete {
+    margin: 5px;
+    width: 15px;
+}
+
+.crit-wounds {
+    min-width: 783px;
+    flex-grow: 1;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.modifier-display {
+    min-width: 100px;
+}

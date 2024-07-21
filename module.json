@@ -1,0 +1,52 @@
+{
+  "id": "TWRPG_Dark_Mode",
+  "title": "The Witcher RPG - Dark Mode",
+  "description": "Dark Mode for The Witcher RPG Foundry module.",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "Marcel z Rivii",
+      "email": "marcelzrivii@outlook.com",
+      "url": "https://linktr.ee/marcelrivijczyk",
+      "discord": "marcelrivijczyk",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/TheWitcherTRPG.js"
+  ],
+  "styles": [
+    "styles/witcher-styles.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "pl",
+      "name": "Polish",
+      "path": "lang/pl.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "TheWitcherTRPG",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "To-do",
+  "manifest": "To-do",
+  "download": "To-do"
+}

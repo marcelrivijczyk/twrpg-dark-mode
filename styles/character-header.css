@@ -1,0 +1,228 @@
+.char-flex {
+    display: flex;
+}
+
+.char-left-sidebar {
+    flex-basis: 180px;
+    flex: none;
+}
+
+.char-bottom-section {
+    min-width: 370px;
+}
+
+.char-bottom-section table td {
+    padding: 0.35em 0.35em 0.35em 0.5em;
+}
+
+.char-stat-title label {
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+.char-stat-title {
+    justify-content: flex-end;
+}
+
+.char-stat-button {
+    width: 65px;
+    height: 26px;
+    background-color: #801a1a;
+    border-radius: 12px;
+    color: white;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.reputation-button {
+    width: 100px;
+}
+
+.char-stat-display {
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+.char-stat-button:hover {
+    outline: none;
+    border-color: #20282e;
+    box-shadow: 0 0 10px #20282e;
+}
+
+input.header-stat {
+    font-weight: bold;
+    width: 35px;
+    height: 26px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+}
+
+.total-stats {
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.total-stats label {
+    font-weight: bold;
+    width: 100px;
+}
+
+input.total-stats-show {
+    width: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.char-stat-label {
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.char-header-center {
+    min-width: 380px;
+    flex-grow: 1;
+    margin: 0 20px 0 20px;
+}
+
+.header-center label {
+    font-weight: bold;
+}
+
+.charname {
+    font-weight: bold;
+    font-size: 25px !important;
+}
+
+.char-center-middle {
+    display: flex;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+.witcher-actor-img {
+    height: 225px;
+    width: 225px;
+}
+
+.core-stats-list {
+    width: 150px;
+}
+
+.core-stats-label { 
+    text-align: center; 
+    display: inline-block;  
+    width: 60px;    
+}   
+
+.core-stats.minmax {    
+    text-align: center; 
+    display: inline-block;
+}
+
+
+.char-right-sidebar {
+    padding: 10px;
+    flex-basis: 270px;
+    background-color: #505152;
+    border-radius: 10px;
+    color: white;
+}
+
+.right-element {
+    float: left;
+    margin: auto;
+    width: 50%;
+    height: 90px;
+    text-align: center;
+}
+
+.right-image {
+    height: 75px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 0;
+}
+
+.right-row {
+    size: 75px;
+}
+
+.right-row label {
+    position: relative;
+}
+
+input.right-value {
+    position: relative;
+    bottom: 55px;
+    width: 40px;
+    font-size: 25px;
+    border: none;
+    background: none;
+    color: #ffffff;
+}
+
+.right-value::placeholder {
+    color: #ffffff;
+}
+
+.right-max {
+    position: relative;
+    bottom: 84px;
+    left: 54px;
+    border: none;
+    text-align: left;
+    width: 50px;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.right-top {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: end;
+}
+
+.char-button-collum {
+    width: 115px;
+    margin-left: 2.5px;
+}
+
+.button-roll {
+    display: flex;
+    width: 110px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: #801a1a;
+    border-radius: 12px;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    margin-bottom: 1px;
+}
+
+.button-roll:hover {
+    outline: none;
+    border-color: #20282e;
+    box-shadow: 0 0 10px #20282e;
+}
+
+.effect-column {
+    flex: 1;
+}
+
+.death {
+    color: #801a1a;
+    width: 14px;
+}
+
+.death-section {
+    display: flex;
+    justify-content: center;
+}
