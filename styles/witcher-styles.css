@@ -16,18 +16,11 @@
 @import "./weapon-roll.css";
 /*
 @font-face {
-    font-family: 'Minion_Pro_Medium';
-    src: url('./fonts/Minion_Pro_Medium.otf');
-
     font-family: 'Thewitcher';
     src: url('./fonts/thewitcher2.ttf');
 
     font-family:'Kingthings_Petrock';
     src:url('./fonts/Kingthings_Petrock.ttf');
-}
-
-.regular-style {
-    font-family: Minion_Pro_Medium;
 }
 
 .witcher-style {
