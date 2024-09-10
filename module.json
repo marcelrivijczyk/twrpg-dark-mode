@@ -53,6 +53,6 @@
     ]
   },
   "url": "https://github.com/marcelrivijczyk/twrpg-dark-mode",
-  "manifest": "https://github.com/marcelrivijczyk/twrpg-dark-mode/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/marcelrivijczyk/twrpg-dark-mode/productive/module.json",
   "download": "https://github.com/marcelrivijczyk/twrpg-dark-mode/releases/latest/download/module.zip"
 }
