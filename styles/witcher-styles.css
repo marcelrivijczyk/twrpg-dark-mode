@@ -14,19 +14,38 @@
 @import "./item-sheets.css";
 @import "./substances.css";
 @import "./weapon-roll.css";
-/*
+
 @font-face {
     font-family: 'Thewitcher';
     src: url('./fonts/thewitcher2.ttf');
-
-    font-family:'Kingthings_Petrock';
-    src:url('./fonts/Kingthings_Petrock.ttf');
 }
 
 .witcher-style {
     font-family: Thewitcher;
 }
 
-.medieval-style{
-    font-family: Kingthings_Petrock;
+.sheet-body details summary>* {
+    display: inline;
+}
+
+.sheet-body details[open]>summary::after {
+    transform: rotate(-135deg) translatey(-0.3em);
+}
+
+.sheet-body summary {
+    list-style: none;
+    padding-left: 4px;
+    cursor: pointer;
+}
+
+.sheet-body summary::after {
+    display: inline-block;
+    content: '';
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    position: relative;
+    left: 0.75em;
+    height: 0.75em;
+    width: 0.75em;
+    transform: rotate(45deg) translatey(-0.1em);
 }

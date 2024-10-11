@@ -227,7 +227,7 @@
 }
 
 .monster-right-attributes {
-  font-size: 17px;
+  font-size: 15px;
 }
 
 .monster-right-attributes .right-element {
@@ -241,7 +241,7 @@
 }
 
 .monster-right-attributes .right-value {
-  font-size: 17px;
+  font-size: 15px;
   bottom: 40px;
   position: relative;
   left: 20px;

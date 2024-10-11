@@ -59,15 +59,15 @@ table th {
 }
 
 .item-img-wrapper .item-show:hover {
-  background: #0000004d;
+    background: #0000004d;
 }
 
 .item-img-wrapper .item-show .fa {
-  display: none;
-  color: #c8c8c8;
-  font-size: 28px;
+    display: none;
+    color: #c8c8c8;
+    font-size: 28px;
 }
 
 .item-img-wrapper .item-show:hover .fa {
-  display: inline-block;
+    display: inline-block;
 }
