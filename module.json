@@ -49,8 +49,7 @@
         "id": "TheWitcherTRPG",
         "type": "system",
         "compatibility": {
-          "minimum": "v12.0.0",
-          "verified": "v12.5.0"
+          "minimum": "v12.0.0"
         }
       }
     ]
