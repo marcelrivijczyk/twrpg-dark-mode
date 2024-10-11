@@ -48,7 +48,9 @@
       {
         "id": "TheWitcherTRPG",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "version": "1.2.0"
+        }
       }
     ]
   },
