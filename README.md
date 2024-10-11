@@ -1,5 +1,4 @@
-# twrpg-dark-mode
-## The Witcher RPG Dark Mode
+# The Witcher RPG Dark Mode
 
 It's not an official module for the Foundry VTT [**The Witcher tRPG**](https://github.com/witchertrpg-foundryvtt/TheWitcherTRPG) system module.
 This version contains changed colors of elements to darker, more elegant look.
