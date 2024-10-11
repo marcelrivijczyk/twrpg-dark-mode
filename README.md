@@ -1,12 +1,14 @@
 # twrpg-dark-mode
 ## The Witcher RPG Dark Mode
 
-It's not an official module for the Foundry VTT TWRPG system module.
+It's not an official module for the Foundry VTT [**The Witcher tRPG**](https://github.com/witchertrpg-foundryvtt/TheWitcherTRPG) system module.
 This version contains changed colors of elements to darker, more elegant look.
 
-## Install
-Please use below URL to install this module:
+## Known Issues
+**#11 Character sheets don't open** – on backlog
 
+## Install
+Please use the below URL to install this module:
 https://raw.githubusercontent.com/marcelrivijczyk/twrpg-dark-mode/productive/module.json
 
 ### Future changes:
