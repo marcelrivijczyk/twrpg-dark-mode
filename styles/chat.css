@@ -1,0 +1,19 @@
+.percentageFailed {
+    background-color: #bd908a;
+    color: wheat;
+}
+
+.percentageSuccess {
+    background-color: #97ca97;
+}
+
+.apply-status {
+    display: flex;
+    gap: 5px;
+}
+
+.center-important {
+    text-align: center;
+    color: wheat;
+    background-color: brown;
+}
