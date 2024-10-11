@@ -12,6 +12,6 @@ Please use the below URL to install this module:
 
 https://raw.githubusercontent.com/marcelrivijczyk/twrpg-dark-mode/productive/module.json
 
-### Future changes:
+## Future Features
 - New medieval font with works with national signs.
 - Exchange background in the chat, PC sheet, Monster sheet, Items sheets, Journals, etc.
